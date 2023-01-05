@@ -1,0 +1,36 @@
+body {
+    background-image: url('WebsiteBackground1.png');
+}
+
+#Title {
+    font-size: 40px;
+    color: black;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    font: bold;
+    text-align: center;
+
+}
+
+#Paragraph {
+    text-align: center;
+    font: bold;
+
+}
+
+#Picture {
+    size-adjust: 100px;
+}
+
+#Skateboard {
+    width: auto;
+    height: 400px;
+}
+
+#Learn {
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(211,211,211), rgb(112,128,144));
+    margin-top: 100px;
+    width: 200px;
+    height: 60px;
+}
